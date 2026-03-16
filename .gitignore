@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Except these tracked files
+!.gitignore
+!lessons.py
+!icon_preview.png
+!dist/
+!dist/PythonTutor.exe
