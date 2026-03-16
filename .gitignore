@@ -3,6 +3,7 @@
 
 # Except these tracked files
 !.gitignore
+!README.md
 !lessons.py
 !icon_preview.png
 !dist/
