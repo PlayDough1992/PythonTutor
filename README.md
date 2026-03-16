@@ -28,6 +28,12 @@ The app includes a **real embedded terminal** (powered by PowerShell) so you can
 
 ---
 
+## Screenshot
+
+![Python Tutor](screenshot.png)
+
+---
+
 ## Lessons Covered
 
 | # | Topic |
