@@ -30,7 +30,7 @@ The app includes a **real embedded terminal** (powered by PowerShell) so you can
 
 ## Screenshot
 
-![Python Tutor](screenshot.png)
+![Python Tutor](https://raw.githubusercontent.com/PlayDough1992/PythonTutor/main/screenshot.png)
 
 ---
 
